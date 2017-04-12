@@ -1,3 +1,2 @@
 # Fitness-App-No-Jailbreak-No-Apple-Watch
-
-For those who're too lazy to go to idownloadblog's site and use the Apple Watch Activity instructions and oad it in either 3UTools or iBackupBot.
+Put the "com.apple.Fitness.plist" file from System Files in "System Files/HomeDomain/Library/Preferences" and then "com.apple.Fitness.plist" to "
