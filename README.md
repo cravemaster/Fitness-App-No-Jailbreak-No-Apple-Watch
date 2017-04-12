@@ -3,4 +3,4 @@ For those who don't like iDownloadBlog. (Shamefully, the original written tutori
 
 Use iBackupBot to apply.
 
-Put the "com.apple.Fitness.plist" file (from the "System Files" subdirectory) in "System Files/HomeDomain/Library/Preferences", and then put the "com.apple.Fitness.plist" file (from the "User App Files" subdirectory) into the "User App Files/com.apple.Fitness/Library/Preferences" subdirectory in your backup.
+Put the "com.apple.Fitness.plist" file (from the "System Files" subdirectory) in "System Files/HomeDomain/Library/Preferences", and then put other plist file (also named "com.apple.Fitness.plist") (from the "User App Files" subdirectory) into the "User App Files/com.apple.Fitness/Library/Preferences" subdirectory in your backup.
