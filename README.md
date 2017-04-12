@@ -1,5 +1,5 @@
 # Fitness-App-No-Jailbreak-No-Apple-Watch
-For those who don't like iDownloadBlog. (Shamefully, the original written tutorial was supposed to be handed to iDownloadBlog first: http://www.idownloadblog.com/2015/03/21/how-to-get-apple-watch-activity-app-ios-8-2-no-jailbreak/)
+For those who don't like iDownloadBlog. (Shamefully, the original written tutorial was supposed to be handed to iDownloadBlog first: http://www.idownloadblog.com/2015/03/21/how-to-get-apple-watch-activity-app-ios-8-2-no-jailbreak/.)
 
 Use iBackupBot to apply.
 
