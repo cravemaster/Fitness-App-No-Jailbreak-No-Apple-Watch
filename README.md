@@ -1,4 +1,5 @@
-# Fitness-App-No-Jailbreak-No-Apple-Watch
+# Unlock the Apple Watch Activity app without an Apple Watch or a jailbreak
+
 For those who don't like iDownloadBlog or have lost the Dropbox link that was posted on one of the articles they made. Shamefully, the original written tutorial was handed to iDownloadBlog first: http://www.idownloadblog.com/2015/03/21/how-to-get-apple-watch-activity-app-ios-8-2-no-jailbreak/.
 
 Their Dropbox link is: https://www.dropbox.com/s/zrh9x5vo2eatwwt/Fitness.zip?dl=0.
