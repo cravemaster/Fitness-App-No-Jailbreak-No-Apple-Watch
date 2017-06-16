@@ -3,6 +3,8 @@ For those who don't like iDownloadBlog or have lost the Dropbox link that was po
 
 Their Dropbox link is: https://www.dropbox.com/s/zrh9x5vo2eatwwt/Fitness.zip?dl=0.
 
+And this link is: https://github.com/cravemaster/Fitness-App-No-Jailbreak-No-Apple-Watch.
+
 No jailbreak required, no Apple Watch necessary. Requires iOS 8.2 or higher. If using iOS 8.2 or higher, check out how to enable the hidden Automation button on iOS 8.2+ and all the way up to iOS 9 (iOS 10 has locked this down and needs a jailbreak to unlock because it requires an internal install/internal install spoof, which is exactly what InternalSettings10 does for you) here: https://github.com/cravemaster/Hidden-Automation-Button-For-Apple-Watch-App
 
 Use iBackupBot to apply.
