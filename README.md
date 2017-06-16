@@ -1,6 +1,8 @@
 # Fitness-App-No-Jailbreak-No-Apple-Watch
 For those who don't like iDownloadBlog or have lost the Dropbox link that was posted on one of the articles they made. Shamefully, the original written tutorial was handed to iDownloadBlog first: http://www.idownloadblog.com/2015/03/21/how-to-get-apple-watch-activity-app-ios-8-2-no-jailbreak/.
 
+Their Dropbox link is: https://www.dropbox.com/s/zrh9x5vo2eatwwt/Fitness.zip?dl=0.
+
 No jailbreak required, no Apple Watch necessary. Requires iOS 8.2 or higher. If using iOS 8.2 or higher, check out how to enable the hidden Automation button on iOS 8.2+ and all the way up to iOS 9 (iOS 10 has locked this down and needs a jailbreak to unlock because it requires an internal install/internal install spoof, which is exactly what InternalSettings10 does for you) here: https://github.com/cravemaster/Hidden-Automation-Button-For-Apple-Watch-App
 
 Use iBackupBot to apply.
